@@ -1,7 +1,7 @@
 # Graph-node-classification
 This is our project on graph node classification, using Cora dataset.
 
-###**By Yihao Liu & Xinyi Ye & Lingyu Zhang**
+**By Yihao Liu & Xinyi Ye & Lingyu Zhang**
 
 We applied both Spectral method and Spatial method.
 
